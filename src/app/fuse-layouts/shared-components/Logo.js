@@ -35,10 +35,10 @@ function Logo() {
 
 
             <Typography className="text-16 ml-12 font-light logo-text" color="textPrimary">BP</Typography>
-            <div className={clsx(classes.reactBadge, "react-badge flex items-center ml-12 mr-8 py-4 px-8 rounded")}>
+            {/* <div className={clsx(classes.reactBadge, "react-badge flex items-center ml-12 mr-8 py-4 px-8 rounded")}>
 
                 <span className="react-text text-12 ml-4">Skalena</span>
-            </div>
+            </div> */}
         </div>
     );
 }
